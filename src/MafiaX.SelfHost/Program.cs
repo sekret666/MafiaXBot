@@ -20,7 +20,7 @@ namespace MafiaX.SelfHost
                                                                                        
                                                                                               
 ");
-            var bot = new BotManager("379713905:AAEWC1UdFdz8tmmrVXCCgdpZvNQE3PIJqcM");
+            var bot = new BotManager("1624907624:AAHe4LwnAC7sLbiyWQJq-5l6uq4BchytHe4");
             bot.StartListening();
 
             Console.Write(new string('\n', 10));
